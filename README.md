@@ -9,7 +9,7 @@ I'm Emir, 18 years old. I am developing blockchain and ai technologies. I am try
 * 🌍  I'm based in Bursa
 * 🖥️  See my portfolio at [My Site](http://emiryilmazer.com.tr)
 * ✉️  You can contact me at [mail@emiryilmazer.com.tr](mailto:mail@emiryilmazer.com.tr)
-* 🚀  I'm currently working on [-]()
+* 🚀  I'm currently working on -
 * 🧠  I'm learning a Python
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm SERVER SYSTEMS GOD
