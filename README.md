@@ -1,16 +1,16 @@
 Hi 👋 My name is Emir Yılmazer
 ==============================
 
-Security Developer
+AI and BlokChain Developer
 ------------------
 
-I'm Emir, 17 years old. I am developing web security systems and bots on the Python language. I am trying to improve myself day by day.
+I'm Emir, 18 years old. I am developing blockchain and ai technologies. I am trying to improve myself day by day.
 
 * 🌍  I'm based in Bursa
 * 🖥️  See my portfolio at [My Site](http://emiryilmazer.com.tr)
 * ✉️  You can contact me at [mail@emiryilmazer.com.tr](mailto:mail@emiryilmazer.com.tr)
-* 🚀  I'm currently working on [HOSTLAYAN IT Services](http://hostlayan.com)
-* 🧠  I'm learning a SWIFT
+* 🚀  I'm currently working on []()
+* 🧠  I'm learning a Python
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm SERVER SYSTEMS GOD
 
