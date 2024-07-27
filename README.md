@@ -7,12 +7,11 @@ AI and BlokChain Developer
 I'm Emir, 18 years old. I am developing blockchain and ai technologies. I am trying to improve myself day by day.
 
 * 🌍  I'm based in Bursa
-* 🖥️  See my portfolio at [My Site](http://emiryilmazer.com.tr)
-* ✉️  You can contact me at [mail@emiryilmazer.com.tr](mailto:mail@emiryilmazer.com.tr)
+* 🖥️  See my portfolio at [My Site]()
+* ✉️  You can contact me at [](mailto:)
 * 🚀  I'm currently working on -
-* 🧠  I'm learning a Python
+* 🧠  I'm learning a -
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm SERVER SYSTEMS GOD
 
 <a href="https://www.github.com/benemiryilmazer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/benemiryilmazer?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
