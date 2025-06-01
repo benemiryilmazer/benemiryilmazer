@@ -4,13 +4,12 @@ Hi 👋 My name is Emir Yılmazer
 Cloud Developer
 ------------------
 
-I'm Emir, 18 years old. I am developing cybersecurity and cloud technologies. I am trying to improve myself day by day.
+I'm Emir, 18 years old. I'm developing cybersecurity and cloud technologies. I am trying to improve myself day by day.
 
 * 🌍  I'm based in Montenegro
 * 🖥️  See my portfolio at [My Site](https://emiryilmazer.tr)
-* ✉️  You can contact me at [](mailto:mail@emiryilmazer.tr)
-* 🚀  I'm currently working on -
-* 🧠  I'm learning a -
+* ✉️  You can contact me at [hi@emiryilmazer.tr](mailto:hi@emiryilmazer.tr)
+* 🚀  I'm currently working on Freelancer Modal
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/benemiryilmazer" target="_blank" rel="noreferrer"><img
